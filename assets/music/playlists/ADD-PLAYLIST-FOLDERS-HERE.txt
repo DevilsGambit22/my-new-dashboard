@@ -1,0 +1,14 @@
+CREATE NEW RADIO PLAYLISTS HERE
+
+1. Create a folder inside assets/music/playlists.
+   Examples:
+   - assets/music/playlists/Classical
+   - assets/music/playlists/Battle Themes
+   - assets/music/playlists/Relaxing Chess
+
+2. Add any .mp3 files to that folder.
+3. Commit the files to GitHub.
+4. Refresh the deployed dashboard.
+
+The folder becomes a playlist button automatically, and every MP3 inside it becomes a track.
+The file victory-fanfare.mp3 is always excluded from normal radio playback.
